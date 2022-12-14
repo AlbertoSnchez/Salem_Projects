@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/choice_1"
+        android:title="Icon 1"
+        android:icon="@drawable/icon_1"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/choice_2"
+        android:title="Icon 2"
+        android:icon="@drawable/icon_2"
+        app:showAsAction="always"/>
+
+</menu>
